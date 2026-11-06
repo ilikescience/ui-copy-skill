@@ -2,7 +2,7 @@
 
 [![skills.sh](https://skills.sh/b/ilikescience/ui-copy-skill)](https://skills.sh/ilikescience/ui-copy-skill)
 
-An agent skill that makes interface copy shorter by deleting it.
+An agent skill that makes interface copy better by deleting it.
 
 When LLMs design interfaces, they overuse copy to explain functionality. 
 This skill gives the agent two tests for every line, plus follow-through that keeps cuts from coming back.
